@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yiimeng0v0
-- 👀 I’m interested in Autonomous Driving, Finance
-- 🌱 I’m currently learning @ University of Toronto Scarborough_ management and it specialist
+- 👀 I’m interested in Autonomous Driving, Data analyzing
+- 🌱 I’m currently learning @ University of Toronto Scarborough_ BBA(Management & IT Specialist)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me_ instagram:@azora.zh
 
