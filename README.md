@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yimeng</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Yimeng🩵</h1>
+<h3 align="center">An aspiring programmer from Beijing, China, eager to learn and create in the world of coding.💞💻📲</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yiimeng0v0&label=Profile%20views&color=0e75b6&style=flat" alt="yiimeng0v0" /> </p>
 
